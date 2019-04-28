@@ -1,6 +1,6 @@
 token=NTYwMzc0MDgyMzUzNDk2MDc0.D3zAkw.qrVx5_iSCXixZc8ibjql6HL20Wo
 owner=526947416658935810 
 prefix=1
-game=Sh5b6h The Best
+game= .
 stayinchannel=true
 songinstatus=false
